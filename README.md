@@ -14,7 +14,7 @@
    ![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/95ea0227-5d94-4ee8-8567-de544738de46)
 
 
-## Hазворачиваем инфраструктуру используя Terraform 
+## Разворачиваем инфраструктуру используя Terraform 
    ![alt text](https://github.com/chichnikita/DiplomNetology/blob/main/img/Terraform_Init_Validate_Fmt.png?raw=true)
    
    ![alt text](https://github.com/chichnikita/DiplomNetology/blob/main/img/Terraform_Apply.png?raw=true)
