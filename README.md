@@ -60,3 +60,10 @@
 ![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/64533ebb-e9c1-494c-81e0-daf130a7fc2f)
 
 ### Настраиваем дешборды с отображением метрик, минимальный набор — по принципу USE (Utilization, Saturation, Errors) для CPU, RAM, диски, сеть, http запросов к веб-серверам.
+
+
+
+## Резервное копирование
+### Создаем snapshot
+
+![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/0d3eae1e-4043-48c5-a3c0-41c300518cce)
