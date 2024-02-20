@@ -1,7 +1,7 @@
 #  Дипломная работа по профессии «Системный администратор»
 
-Техническое задание : [Диплом sys-22](https://github.com/chichnikita/DiplomNetology/blob/main/Read_tx.md)
-Данный по подключениям к серверам :  [Диплом sys-22](https://github.com/chichnikita/DiplomNetology/blob/main/info.md)
+Техническое задание : [Диплом sys-22](https://github.com/chichnikita/DiplomNetology/blob/main/Read_tx.md)  
+Данный по подключениям к серверам : [Диплом sys-22](https://github.com/chichnikita/DiplomNetology/blob/main/info.md)
 
 ## Инфраструктура
 Для развёртки инфраструктуры использую Terraform и Ansible.
