@@ -41,9 +41,16 @@
 ![1-23](./img/Ansible_Ping_All_Host.png)
 ### Устанавливаем Nginx на машины
 ![1-23](./img/Ansible_Playbook_Nginx.png)
-### Тестируем сайт curl -v <публичный IP балансера>:80
+### Тестируем сайт `curl -v <публичный IP балансера>:80` 
 ![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/0ef5b0b7-ac30-4bd2-bff6-845771ce7926)
 ![alt-text](https://github.com/chichnikita/DiplomNetology/blob/main/img/gif/Site.gif)
 ### Проверяем корректность работы balancer
 ![1-20](./img/balancer_logs.png)
 
+## Мониторинг
+### Устанавливаем zabbix-server на машину
+![1-20](./img/Ansible_Playbook_Zabbix-server_1.png)
+![1-20](./img/Ansible_Playbook_Zabbix-server_2.png)
+
+### Установиваем Zabbix Agent на web-server1, web-server2 и настраиваем агенты на отправление метрик в Zabbix.
+![1-20](./img/Ansible_Playbook_Zabbix-agent_1.png)
