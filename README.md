@@ -63,8 +63,15 @@
 
 ### Настраиваем дешборды с отображением метрик, минимальный набор — по принципу USE (Utilization, Saturation, Errors) для CPU, RAM, диски, сеть, http запросов к веб-серверам.
 
+## Логи
+### Устанавливаем elasticsearch на сервера web-server1, web-server2
+![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/435a77d8-3024-49b2-b2f1-8f359728677f)
+### Устанавливаем filebeat
+![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/cb055c34-172f-4635-bcbf-8781cbea9e22)
 
-
+### Устанавливаем kibana
+![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/22c891e0-020b-42e6-8105-c75485e803f2)
+   
 ## Резервное копирование
 ### Создаем snapshot
 
