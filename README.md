@@ -41,6 +41,7 @@
 ![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/b6e4b99b-3b69-4cdc-acae-3e0f73185ed9)
 ### С помощью Ansible проверяем доступность созданых виртуальных машин
 ![1-23](./img/Ansible_Ping_All_Host.png)
+ Для ansible использовал fqdn имена виртуальных машин в зоне ".ru-central1.internal"
 ### Устанавливаем Nginx на машины
 ![1-23](./img/Ansible_Playbook_Nginx.png)
 ### Тестируем сайт `curl -v <публичный IP балансера>:80` 
@@ -56,3 +57,6 @@
 
 ### Установиваем Zabbix Agent на web-server1, web-server2 и настраиваем агенты на отправление метрик в Zabbix.
 ![1-20](./img/Ansible_Playbook_Zabbix-agent_1.png)
+![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/64533ebb-e9c1-494c-81e0-daf130a7fc2f)
+
+### Настраиваем дешборды с отображением метрик, минимальный набор — по принципу USE (Utilization, Saturation, Errors) для CPU, RAM, диски, сеть, http запросов к веб-серверам.
