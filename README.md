@@ -35,6 +35,8 @@
 ![1-21](./img/router.png)
 ### Backend Group
 ![1-22](./img/bg.png)
+### Balancer
+![1-22](./img/Balancer.png)
 ### Проверяем созданую группу безопасности
 ![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/b6e4b99b-3b69-4cdc-acae-3e0f73185ed9)
 ### С помощью Ansible проверяем доступность созданых виртуальных машин
