@@ -142,7 +142,8 @@
 
 <details> 
 
-![1-20](./img/Ansible_Playbook_Zabbix-agent_1.png)
+![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/17853cec-65be-41a4-937e-e2e597c0e704)
+
 ![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/64533ebb-e9c1-494c-81e0-daf130a7fc2f)
 
 </details> 
