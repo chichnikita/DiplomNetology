@@ -1,0 +1,15 @@
+#cloud-config
+users:
+  - name: chichnikita
+    groups: sudo
+    shell: /bin/bash
+    sudo: ['ALL=(ALL) NOPASSWD:ALL']
+    ssh-authorized-keys:
+      ssh-rsa *****== chichnikita
+
+disable_root: true
+timezone: Asia/Almaty
+repo_update: true
+repo_upgrade: true
+apt:
+  preserve_sources_list: true
