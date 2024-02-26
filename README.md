@@ -99,13 +99,14 @@
 
 <details> 
 
-![1-23](./img/Ansible_Playbook_Nginx.png)
+![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/45f4a580-3423-43d3-95a5-7320fe0b6d28)
+
 
 </details> 
 
 ### Тестируем сайт `curl -v <публичный IP балансера>:80` 
 
-Можете проверить :  51.250.83.216:80
+[Информация по подключениям к серверам ](https://github.com/chichnikita/DiplomNetology/blob/main/info.md)
 
 <details> 
    
@@ -126,8 +127,8 @@
 </details> 
 
 ## Мониторинг
-### Устанавливаем zabbix-server на машину
-
+### Устанавливаем zabbix-server на машину 
+[Информация по подключениям к серверам ](https://github.com/chichnikita/DiplomNetology/blob/main/info.md)
 <details> 
 
 ![1-20](./img/Ansible_Playbook_Zabbix-server_1.png)
