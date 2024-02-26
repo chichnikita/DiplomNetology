@@ -170,7 +170,7 @@
 </details> 
 
 ### Устанавливаем kibana
-
+[Информация по подключениям к серверам ](https://github.com/chichnikita/DiplomNetology/blob/main/info.md)
 <details>
    
 ![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/3b190e63-db72-4c6d-a400-d421f9aee324)
