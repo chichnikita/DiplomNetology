@@ -4,7 +4,7 @@ Zabbix-server
  * Пароль : zabbix
 
 Balancer
- * Сайт   :
+ * Сайт   : 51.250.83.216:80
 
 Kibana :
  * Сайт   :
