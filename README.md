@@ -80,7 +80,8 @@
 
 <details> 
 
-![1-23](./img/Ansible_Ping_All_Host.png)  
+![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/eba01c45-06f1-451e-ba52-f4c984c88e55)
+
 
 </details> 
 
@@ -89,7 +90,8 @@
 
 <details> 
 
- ![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/278bb7fc-3ca6-4a10-bcff-92ad8c1dffd4)  
+![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/ac020a07-b8c4-411d-897c-bf080cabcdef)
+
 
 </details> 
 
@@ -102,6 +104,8 @@
 </details> 
 
 ### Тестируем сайт `curl -v <публичный IP балансера>:80` 
+
+Можете проверить :  51.250.83.216:80
 
 <details> 
    
