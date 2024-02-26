@@ -1,0 +1,38 @@
+---
+- name: Configure Zabbix hosts
+  hosts: zabbix_server
+  tasks:
+    - name: Set credentials to access Zabbix Server API
+      ansible.builtin.set_fact:
+        ansible_user: Admin
+        ansible_httpapi_pass: zabbix
+
+    - name: Set API token
+      ansible.builtin.set_fact:
+        ansible_zabbix_auth_key: "541bad8b111405eb4d9dd9aa3202b46dd50b2765a1532fe0237eafcf34920b98"
+
+    - name: Create Zabbix host for webserver1
+      community.zabbix.zabbix_host:
+        host_name: "webserver1.ru-central1.internal"
+        visible_name: "Web Server 1"
+        host_groups:
+          - "Servers"
+        interfaces:
+          - type: 1
+            main: 1
+            useip: 0
+            dns: "webserver1.ru-central1.internal"
+        state: present
+
+    - name: Create Zabbix host for webserver2
+      community.zabbix.zabbix_host:
+        host_name: "webserver2.ru-central1.internal"
+        visible_name: "Web Server 2"
+        host_groups:
+          - "Servers"
+        interfaces:
+          - type: 1
+            main: 1
+            useip: 0
+            dns: "webserver2.ru-central1.internal"
+        state: present
