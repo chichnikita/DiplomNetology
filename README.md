@@ -151,7 +151,7 @@
 ### Настраиваем дешборды с отображением метрик, минимальный набор — по принципу USE (Utilization, Saturation, Errors) для CPU, RAM, диски, сеть, http запросов к веб-серверам.
 
 ## Логи
-### Устанавливаем elasticsearch на сервера web-server1, web-server2
+### Устанавливаем elasticsearch 
 
 <details> 
    
@@ -160,7 +160,7 @@
 
 </details> 
    
-### Устанавливаем filebeat
+### Устанавливаем filebeat на сервера web-server1, web-server2
 
 <details> 
 
