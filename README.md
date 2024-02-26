@@ -155,7 +155,7 @@
 
 <details> 
    
-![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/ada25411-8e21-40d2-b924-16ecbbf2969e)
+![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/2368270c-299f-4273-b652-9178ccf25e21)
 
 
 </details> 
@@ -164,7 +164,7 @@
 
 <details> 
 
-![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/abf714b2-4d5f-4410-8b89-5aee1ec1346c)
+![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/eb4b416d-15e0-41fb-a2de-fd2b063b214f)
 
 
 </details> 
@@ -173,8 +173,11 @@
 
 <details>
    
-![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/9fac504b-40f4-4fc8-8526-314a8dbac964)
+![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/3b190e63-db72-4c6d-a400-d421f9aee324)
 
+![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/8ee17592-042e-46bc-8f9a-9162fa7a60f8)
+
+![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/d7ee1186-6f9c-4369-8f4b-7cda648408e3)
 
 </details> 
    
