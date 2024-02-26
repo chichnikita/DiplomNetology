@@ -25,7 +25,8 @@
    
 Использовал минимальные конфигурации ВМ:2 ядра 20% Intel ice lake, 2-4Гб памяти, 10hdd, прерываемая.
 ## Проверяем параметры созданых виртуальных машин
-   ![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/d33a6bf2-01f3-409d-b86a-d7f58da41ba1)
+  ![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/48b1670d-15ec-480b-a969-7021ba337da8)
+
 
 
 Виртуальная машина github - это личный сервер, к проекту он не имеет никакого отношения :) 
@@ -70,7 +71,8 @@
 
 <details> 
 
-![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/b6e4b99b-3b69-4cdc-acae-3e0f73185ed9)
+![image](https://github.com/chichnikita/DiplomNetology/assets/120582480/be668b36-a6c3-4ccd-91e7-6e4d1727708e)
+
 
 </details> 
 
