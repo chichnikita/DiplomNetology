@@ -3,6 +3,8 @@
 Техническое задание : [Диплом sys-22](https://github.com/chichnikita/DiplomNetology/blob/main/Read_tx.md)  
 [Информация по подключениям к серверам ](https://github.com/chichnikita/DiplomNetology/blob/main/info.md)
 
+## По всем вопросам и просьбам помочь, пишите в телеграмм : https://t.me/chichnikita 
+
 ## Инфраструктура
 Для развёртки инфраструктуры использую Terraform и Ansible.
  * Terraform - смотрите terraform/main.ft и все прилагающие к нему файлы
